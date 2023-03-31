@@ -4,6 +4,12 @@ MainCode_NautilusWithNSGA-II.py
 MainCode_NautilusWithNSGA-III.py
 MainCode_NautilusWithWASF-GA.py
 
+#If you use any part of this research in your own work, please cite the following reference using APA 7 format:
+# [insert reference].
+#This project has been published in the Journal of Business Analytics, which is available here:
+# [insert link].
+# Please note that this code requires Python 3.7 to run, and the functionality for creating figures and saving files has been disabled when comparing algorithms."
+
 Here is more info:  
 Title: An Interactive Analytics Approach for Sustainable and Resilient Case Studies: A Machine Learning Perspective
 Authors: Mohsen, Kiarash, Lai
