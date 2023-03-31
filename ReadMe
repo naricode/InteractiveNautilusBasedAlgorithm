@@ -1,0 +1,9 @@
+ This code is part of a research project published by Journal of Business Analytics. Here is more info:  
+Title: An Interactive Analytics Approach for Sustainable and Resilient Case Studies: A Machine Learning Perspective
+Authors: Mohsen, Kiarash, Lai
+University of Sydney Business School; North Carolina A&T State University; University Putra Malaysia
+
+ABSTRACT
+Sustainable development is a problem-solving method that simultaneously accounts for the economic, environmental, and social impacts of actions. Government agencies and other decision-making entities have recently recognized the need for sustainable development. Multiobjective optimization is the most reliable technique to solve multiple sustainable development goals. However, there needs to be more research examining the role of interactive methods in multiobjective optimization problems. To integrate machine learning and human interactions, this paper develops a new three-stage interactive algorithm in business analytics, called the interactive Nautilus-based algorithm, to address complex problems. To show the method's applicability, this paper uses the proposed algorithm in three sustainable and resilient case studies. The selected cases are the river pollution problem, the urban transit network design problem, and the resilience problem. Moreover, the proposed algorithm is compared with two other algorithms for validation purposes. The results reveal that the proposed algorithm outperforms non-interactive algorithms by providing superior solutions.
+
+Keywords: Multiobjective Optimization; Machine Learning; Interactive Nautilus-Based Algorithm; Sustainable and Resilient Cases.
