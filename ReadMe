@@ -1,4 +1,10 @@
-This code is part of a research project published by Journal of Business Analytics. Here is more info:  
+This code is part of a research project published by Journal of Business Analytics. 
+Main codes to run are:
+MainCode_NautilusWithNSGA-II.py
+MainCode_NautilusWithNSGA-III.py
+MainCode_NautilusWithWASF-GA.py
+
+Here is more info:  
 Title: An Interactive Analytics Approach for Sustainable and Resilient Case Studies: A Machine Learning Perspective
 Authors: Mohsen, Kiarash, Lai
 University of Sydney Business School; North Carolina A&T State University; University Putra Malaysia
