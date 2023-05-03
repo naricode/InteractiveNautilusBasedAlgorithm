@@ -7,9 +7,10 @@ MainCode_NautilusWithNSGA-III.py
 MainCode_NautilusWithWASF-GA.py
 
 #If you use any part of this research in your own work, please cite the following reference using APA 7 format:
-# [insert reference].
+# Mousavi, S. M., Sadeghi R, K., & Lee, L. S. (2023). An interactive analytics approach for sustainable and resilient case studies: a machine learning perspective. Journal of Business Analytics, 1-18.
+
 #This project has been published in the Journal of Business Analytics, which is available here:
-# [insert link].
+https://doi.org/10.1080/2573234X.2023.2202691
 # Please note that this code requires Python 3.7 to run, and the functionality for creating figures and saving files has been disabled when comparing algorithms."
 
 Here is more info:  
